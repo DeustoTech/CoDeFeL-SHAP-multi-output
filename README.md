@@ -5,6 +5,10 @@ In particular, the analysis targets three clinically relevant hematological quan
 * HGB (g/dL) — Hemoglobin concentration
 * RBC (10¹²/L) — Red blood cell count
 
+<p align="center">
+<img src="https://github.com/DeustoTech/CoDeFeL-SHAP-multi-output/blob/main/shap_beeswarm_hct.png" width="70%" height="70%" >
+</p>
+
 The repository includes scripts to:
 1. train linear and nonlinear multi-output models,
 2. compute SHAP values for each output,
